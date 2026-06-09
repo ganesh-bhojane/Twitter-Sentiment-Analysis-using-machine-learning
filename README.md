@@ -29,7 +29,7 @@ Multinomial Naive Bayes = 75%
 Tweet	Prediction
 I love this movie	Positive
 This was terrible	Negative
-It is okay	Neutral
+
 
 # Author
 
